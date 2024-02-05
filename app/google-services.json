@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284289680697",
+    "project_id": "appbase-66912",
+    "storage_bucket": "appbase-66912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284289680697:android:3ffeac6d176e4e8362d4e8",
+        "android_client_info": {
+          "package_name": "com.example.egeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284289680697-fqnv40revdht8f7sjrchoiut2orneie6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKIEv29Lo_V-1vHrX3F3NQZ53aJSPu5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284289680697-fqnv40revdht8f7sjrchoiut2orneie6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
